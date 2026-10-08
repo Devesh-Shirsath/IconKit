@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <!-- file body and fold: taken unchanged from Phosphor's file -->
+  <path d="M200,224H56a8,8,0,0,1-8-8V40a8,8,0,0,1,8-8h96l56,56V216A8,8,0,0,1,200,224Z" data-fill="solid"/>
+  <polyline points="152 32 152 88 208 88" data-not="fill"/>
+  <polygon points="152 44 152 88 196 88" data-only="fill" data-fill="hole"/>
+  <polygon points="152 32 152 88 208 88" data-duotone="plate"/>
+  <!-- the star from Phosphor's sparkle, at 55%, centred in the page below the fold -->
+  <g transform="translate(128 156) scale(0.55) translate(-112 -144)" data-not="bold" data-fill="knockout">
+    <path d="M194.82,151.43l-55.09,20.3-20.3,55.09a7.92,7.92,0,0,1-14.86,0l-20.3-55.09-55.09-20.3a7.92,7.92,0,0,1,0-14.86l55.09-20.3,20.3-55.09a7.92,7.92,0,0,1,14.86,0l20.3,55.09,55.09,20.3A7.92,7.92,0,0,1,194.82,151.43Z"/>
+  </g>
+  <!-- bold: the outlined star's counter closes, so it becomes a solid star -->
+  <path d="M128,120c4,22,14,32,36,36c-22,4-32,14-36,36c-4-22-14-32-36-36c22-4,32-14,36-36Z" fill="currentColor" data-only="bold"/>
+</svg>

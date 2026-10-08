@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <!-- security: Phosphor's shield, unchanged -->
+  <path d="M216,112V56a8,8,0,0,0-8-8H48a8,8,0,0,0-8,8v56c0,96,88,120,88,120S216,208,216,112Z" data-fill="solid" data-duotone="tint"/>
+  <!-- the group of rules: two rows, each a condition marker and its rule -->
+  <g data-fill="knockout">
+    <circle cx="84" cy="112" r="4" fill="currentColor"/>
+    <line x1="120" y1="112" x2="176" y2="112" data-not="bold"/>
+    <line x1="128" y1="112" x2="176" y2="112" data-only="bold"/>  <!-- bold: clear of the dot -->
+    <circle cx="84" cy="152" r="4" fill="currentColor"/>
+    <line x1="120" y1="152" x2="176" y2="152" data-not="bold"/>
+    <line x1="128" y1="152" x2="176" y2="152" data-only="bold"/>  <!-- bold: clear of the dot -->
+  </g>
+</svg>

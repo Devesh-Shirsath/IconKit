@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: IconKit
+message: >-
+  If you use IconKit or build on its skeleton-to-six-weights method, a credit
+  is appreciated.
+type: software
+authors:
+  - given-names: Devesh
+    family-names: Shirsath
+    website: https://deveshshirsath.com
+repository-code: https://github.com/Devesh-Shirsath/IconKit
+url: https://github.com/Devesh-Shirsath/IconKit
+abstract: >-
+  IconKit is a Claude Code skill that designs new icons in the Phosphor Icons
+  style from a description of a feature. The model draws one skeleton of
+  centrelines; a dependency-free Python build strokes it at Phosphor's four
+  widths, derives the fill and duotone weights, outlines everything to
+  production SVG, checks it against rules measured from Phosphor's 1,512
+  icons, and renders a preview beside real ones.
+keywords:
+  - claude-code
+  - claude-skill
+  - icons
+  - icon-design
+  - phosphor-icons
+  - svg
+  - design-system
+  - design-automation
+  - figma
+license: MIT
