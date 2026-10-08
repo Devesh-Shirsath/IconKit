@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="32" y="56" width="192" height="160" rx="24" data-fill="solid"/>
+  <g data-not="fill">
+    <rect x="72" y="144" width="112" height="40" rx="20"/>
+    <line x1="148" y1="144" x2="148" y2="184"/>
+    <line x1="108" y1="144" x2="108" y2="184"/>
+  </g>
+  <g data-only="fill" data-fill="hole">
+    <path d="M96,184H80a16,16,0,0,1,0-32H96Z"/>
+    <rect x="112" y="152" width="32" height="32"/>
+    <path d="M160,152h16a16,16,0,0,1,0,32H160Z"/>
+  </g>
+  <path d="M200,56H56A24,24,0,0,0,32,80V192a24,24,0,0,0,24,24H200a24,24,0,0,0,24-24V80A24,24,0,0,0,200,56ZM164,184H92a20,20,0,0,1,0-40h72a20,20,0,0,1,0,40Z" fill-rule="evenodd" data-duotone="plate"/>
+  <line x1="128" y1="56" x2="128" y2="16"/>
+  <circle cx="84" cy="108" r="4" fill="currentColor" data-fill="knockout"/>
+  <circle cx="172" cy="108" r="4" fill="currentColor" data-fill="knockout"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <g data-not="fill">
+    <line x1="40" y1="64" x2="216" y2="64"/>
+    <line x1="40" y1="128" x2="216" y2="128"/>
+    <line x1="40" y1="192" x2="216" y2="192"/>
+  </g>
+  <rect x="40" y="40" width="176" height="176" rx="8" data-fill="plate"/>
+  <g data-only="fill" data-fill="knockout">
+    <line x1="64" y1="80" x2="192" y2="80"/>
+    <line x1="64" y1="128" x2="192" y2="128"/>
+    <line x1="64" y1="176" x2="192" y2="176"/>
+  </g>
+  <rect x="40" y="64" width="176" height="128" data-duotone="plate"/>
+</svg>

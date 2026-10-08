@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M200,224H56a8,8,0,0,1-8-8V40a8,8,0,0,1,8-8h96l56,56V216A8,8,0,0,1,200,224Z" data-fill="solid"/>
+  <polyline points="152 32 152 88 208 88" data-not="fill"/>
+  <polygon points="152 44 152 88 196 88" data-only="fill" data-fill="hole"/>
+  <polygon points="152 32 152 88 208 88" data-duotone="plate"/>
+</svg>

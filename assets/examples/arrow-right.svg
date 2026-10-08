@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <g data-not="fill duotone">
+    <line x1="40" y1="128" x2="216" y2="128"/>
+    <polyline points="144 56 216 128 144 200"/>
+  </g>
+  <g data-only="fill duotone">
+    <line x1="40" y1="128" x2="144" y2="128"/>
+    <polygon points="144 56 216 128 144 200" data-fill="solid" data-duotone="tint"/>
+  </g>
+</svg>

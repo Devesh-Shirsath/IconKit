@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <g data-not="fill">
+    <polyline points="40 64 112 128 40 192"/>
+    <line x1="120" y1="192" x2="216" y2="192"/>
+  </g>
+  <rect x="32" y="48" width="192" height="160" rx="8" data-fill="plate"/>
+  <g data-only="fill" data-fill="knockout">
+    <polyline points="72 88 112 128 72 168"/>
+    <line x1="128" y1="168" x2="192" y2="168"/>
+  </g>
+  <path d="M216,80V192H40V64H200A16,16,0,0,1,216,80Z" data-duotone="plate"/>
+</svg>
